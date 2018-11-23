@@ -1,0 +1,11 @@
+{
+  "name": "npm-mock",
+  "version": "0.0.0",
+  "private": false,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "benchmark": "2.1.4"
+  }
+}
